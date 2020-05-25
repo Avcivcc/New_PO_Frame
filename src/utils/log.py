@@ -43,8 +43,13 @@ class Log:
 
     # 写入日志,写的信息都只会加入到message中
     # 这里可以再优化到断言里面去，暂时就这样了
-    def add_log(self, page, function, description):
-        out_str = page + "：" + function + "：" + description
+    # def add_log(self, page, function, description):
+    #     out_str = page + "：" + function + "：" + description
+    #     logging.info(out_str)
+
+    # 写入日志,写的信息都只会加入到message中
+    def add_log(self, description):
+        out_str = description
         logging.info(out_str)
 
 

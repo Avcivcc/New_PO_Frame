@@ -1,0 +1,12 @@
+Mon, 25 May 2020 17:22:43 log.py[line:53] INFO Had find the element '  ' successful by id via value: kw 
+Mon, 25 May 2020 17:22:43 log.py[line:53] INFO Had type ' csdn ' in inputBox
+Mon, 25 May 2020 17:22:43 log.py[line:53] INFO Had find the element '  ' successful by id via value: su 
+Mon, 25 May 2020 17:22:46 log.py[line:53] INFO Had take screenshot and saved!
+Mon, 25 May 2020 17:22:46 log.py[line:53] INFO Had find the element '  ' successful by id via value: kw 
+Mon, 25 May 2020 17:22:46 log.py[line:53] INFO Had type ' ¿œª¢ ' in inputBox
+Mon, 25 May 2020 17:22:46 log.py[line:53] INFO Had find the element '  ' successful by id via value: su 
+Mon, 25 May 2020 17:22:49 log.py[line:53] INFO Had take screenshot and saved!
+Mon, 25 May 2020 17:22:49 log.py[line:53] INFO Had find the element '  ' successful by id via value: kw 
+Mon, 25 May 2020 17:22:49 log.py[line:53] INFO Had type ' english ' in inputBox
+Mon, 25 May 2020 17:22:49 log.py[line:53] INFO Had find the element '  ' successful by id via value: su 
+Mon, 25 May 2020 17:22:51 log.py[line:53] INFO Had take screenshot and saved!
